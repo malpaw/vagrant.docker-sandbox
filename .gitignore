@@ -1,0 +1,7 @@
+#################################
+# malpaw.vagrant.docker-sandbox #
+# .gitignore file               #
+#################################
+
+.vagrant
+.vscode
